@@ -8,21 +8,36 @@ Rise&Run: An IoT-Integrated Autonomous Robotic Alarm System that Encourages Phys
 
 Rise&Run is a multi-platform ecosystem designed to prevent oversleeping and encourage physical activity.
 
-Autonomous IoT Rover Alarm
+__Autonomous IoT Rover Alarm__
 - Drives away when the alarm triggers, keeping it out of reach.
 - Requires the user to perform a pre-set number of exercises to deactivate.
   
-Cross-Platform Mobile App
+__Cross-Platform Mobile App__
 - Allows users to set alarms, customize difficulty, track progress, and receive notifications.
 
-Centralized Web Dashboard
+__Centralized Web Dashboard__
 - Displays "Wake-up Health" data, streaks, and optional social accountability alerts.
 - Provides debugging logs (battery, Wi-Fi signal strength) for the IoT device.
 
 
 ## Technologies Used
 
-Flutter, Dart, IoT, Cloud Computing (mention the cloud platform you’re using).
+__Frameworks and Programming Languages__
+
+- Flutter
+-  Dart
+
+__IoT Devices__ 
+
+- Makerlab ESP32 CAM 4WD Smart Robot Car Kit
+
+- Ultrasonic Distance Sensor HC-SR04 Module Circuit Board 
+
+- MPU6050 Accelerometer and Gyroscope Module
+
+__Cloud Computing Integration__
+
+- 
 
 ## Features
 
