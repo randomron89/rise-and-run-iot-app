@@ -53,8 +53,18 @@ Smart Scheduling: Integration with mobile calendars to automatically set alarms 
 
 ## Installation Instructions
 
-Instructions on how to clone and run the app locally (for others or future you).
+Tutorial taken from https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
+
+1. On GitHub, navigate to the main page of the repository.
+2. Above the list of files, click  <>Code.
+3. Copy the URL for the repository.
+4. Change the current working directory to the location where you want the cloned directory.
+5. Type git clone, and then paste the URL you copied earlier.
+6. Press Enter to create your local clone.
 
 ## Setup
 
-Instructions for setting up IoT devices and cloud services.
+__Setting up the robot__
+1. Turn on the robot unit.
+2. Link the robot unit to the application using bluetooth.
+3. Wait for the application to indicate that connection was successful.
