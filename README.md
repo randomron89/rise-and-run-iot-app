@@ -68,3 +68,7 @@ __Setting up the robot__
 1. Turn on the robot unit.
 2. Link the robot unit to the application using bluetooth.
 3. Wait for the application to indicate that connection was successful.
+
+
+Contributors:
+ rcpinca.it@tip.edu.ph
