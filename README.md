@@ -21,9 +21,13 @@ Technologies Used: Flutter, Dart, IoT, Cloud Computing (mention the cloud platfo
 
 Features:
 Autonomous Obstacle Avoidance: Uses on board sensors to "run away" from the user and avoid getting stuck in corners or under furniture.
+
 Kinetic Deactivation (Rep Counting): The alarm only shuts off once the built-in accelerometer detects a specific number of "reps" (e.g., 10 overhead presses).
+
 "Chaos Mode" Configuration: Users can customize the robot’s escape speed and the difficulty of the exercise via the mobile app.
+
 Social Accountability: If the user fails to catch the alarm within a 5-minute window, the system automatically posts a "Lazy Alert" to the web dashboard visible to friends or roommates also using the app. This is off by default to respect  privacy, but can be turned on by the user if they require more accountability.
+
 Smart Scheduling: Integration with mobile calendars to automatically set alarms based on the first class of the day.
 
 Installation Instructions: Instructions on how to clone and run the app locally (for others or future you).
