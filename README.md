@@ -1,8 +1,11 @@
 # rise-and-run-iot-app
 
-Project Title: Rise&Run: An IoT-Integrated Autonomous Robotic Alarm System that Encourages Physical Activity Upon Waking Up
+## Project Title
 
-Description: 
+Rise&Run: An IoT-Integrated Autonomous Robotic Alarm System that Encourages Physical Activity Upon Waking Up
+
+## Description
+
 Rise&Run is a multi-platform ecosystem designed to prevent oversleeping and encourage physical activity.
 
 Autonomous IoT Rover Alarm
@@ -17,9 +20,12 @@ Centralized Web Dashboard
 - Provides debugging logs (battery, Wi-Fi signal strength) for the IoT device.
 
 
-Technologies Used: Flutter, Dart, IoT, Cloud Computing (mention the cloud platform you’re using).
+## Technologies Used
 
-Features:
+Flutter, Dart, IoT, Cloud Computing (mention the cloud platform you’re using).
+
+## Features
+
 Autonomous Obstacle Avoidance: Uses on board sensors to "run away" from the user and avoid getting stuck in corners or under furniture.
 
 Kinetic Deactivation (Rep Counting): The alarm only shuts off once the built-in accelerometer detects a specific number of "reps" (e.g., 10 overhead presses).
@@ -30,6 +36,10 @@ Social Accountability: If the user fails to catch the alarm within a 5-minute wi
 
 Smart Scheduling: Integration with mobile calendars to automatically set alarms based on the first class of the day.
 
-Installation Instructions: Instructions on how to clone and run the app locally (for others or future you).
+## Installation Instructions
 
-Setup: Instructions for setting up IoT devices and cloud services.
+Instructions on how to clone and run the app locally (for others or future you).
+
+## Setup
+
+Instructions for setting up IoT devices and cloud services.
